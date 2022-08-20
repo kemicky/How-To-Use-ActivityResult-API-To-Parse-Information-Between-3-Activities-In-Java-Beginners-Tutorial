@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="result">Result:</string>
+    <string name="get_result">Get Result</string>
+    <string name="person_name">Name:</string>
+    <string name="add_input">Add Input</string>
+    <string name="calculate_sum">Calculate Sum</string>
+    <string name="enter_num2">Enter Num2:</string>
+    <string name="enter_num1">Enter Num1:</string>
+    <string name="enter_your_name">Enter your name:</string>
+    <string name="display_result">Display Result</string>
+    <string name="home">Home</string>
+    <string name="see_the_result_of_your_input">Input Result</string>
+</resources>
