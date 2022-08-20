@@ -18,7 +18,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-  //TODO: Define Constants To Access ActivityResult API .
+  //TODO: Define Constants To Access ActivityResult API.
     public static final  String SHARED_PREFS = "sharedPrefs";
     public static final String KEY_NAME = "keyName";
     public static final String KEY_ANSWER = "keyAnswer";
